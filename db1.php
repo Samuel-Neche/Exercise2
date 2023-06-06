@@ -123,11 +123,11 @@ a:hover{
             <p>By Neche</p>
         </div>
         <ul>
-            <li><a href="./index.html" class="main">Home</a></li>
-            <li><a href="http://">Support</a></li>
-            <li><a href="http://">About Us</a></li>
-            <li><a href="http://">Blog</a></li>
-            <li><a href="http://">Contact Us</a></li>
+            <li><a href="index.html" class="main">Home</a></li>
+            <li><a href="support.html">Support</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="indexa.html">Sign Up</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
         </ul>
     </nav>
     <img id="cover-img" src="./night.jpg" alt="cover-img">
@@ -147,11 +147,11 @@ a:hover{
             <h2>Template License</h2>
             <p>March 16, 2018 | Published by Neche | Filed under templates, internet</p>
             <div id="t-licence-body">
-                <img src="./light.jpg" alt="person-smiling">
+                <img src="./light.jpg" alt="image3">
                 <div>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam similique officia optio molestias autem tempore iste ratione, nihil at commodi ipsum sapiente adipisci expedita deserunt perspiciatis veritatis ea ipsa maxime eligendi. Animi perspiciatis sequi non laudantium culpa doloremque labore esse quidem recusandae sunt et tempora, voluptatum aliquam, quod ex. Error!</p>
 
-                    <a id="read-more" href="./index.html">Read More</a>
+                    <a id="read-more" href="./indexa.html">Read More</a>
                 </div>
                 
             </div>
